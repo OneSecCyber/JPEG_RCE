@@ -47,8 +47,8 @@ Upload the file or run the file in you local system to see the magic..
 <br>
 *POC*
 
-![Watch the video](https://github.com/OneSecCyber/JPEG_RCE/blob/main/POC.mp4)]
-[<img src="https://github.com/OneSecCyber/JPEG_RCE/blob/main/POC.mp4" width="50%">]
+![Watch the video](https://github.com/OneSecCyber/JPEG_RCE/blob/main/POC.mp4)
+
 </br>
 
 
