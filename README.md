@@ -14,10 +14,12 @@ ExifTool 7.44 to 12.23 has a bug in the DjVu module which allows for arbitrary c
 *REQUIREMENTS*
 
 if you are using other image ,it should be a valid jpeg/jpg file </br>
-You can check that with exiftool </br>
+You can check that with exiftool 
+</br>
 The meta-data should be : 
 <br>
-	`MIME Type                       : image/jpeg"`
+`MIME Type                       : image/jpeg"`
+</br>
 </br>
 *EXPLOIT VECTOR*
 
