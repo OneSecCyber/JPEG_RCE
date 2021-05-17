@@ -18,7 +18,7 @@ You can check that with exiftool
 </br>
 The meta-data should be : 
 <br>
-`MIME Type                       : image/jpeg"`
+`MIME Type                       : image/jpeg"` 
 </br>
 </br>
 *EXPLOIT VECTOR*
